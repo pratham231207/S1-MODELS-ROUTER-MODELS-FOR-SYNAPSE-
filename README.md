@@ -139,7 +139,6 @@ Fine-tuned from **Meta LLaMA 3B** (3 billion parameters) — small enough to rou
 | Model | Status | Link |
 |---|---|---|
 | S1.3 (latest public) | Public | [PRATHAM4567/S1.3](https://huggingface.co/PRATHAM4567/S1.3) |
-| S1.3 | Public | [PRATHAM4567/S1.3](https://huggingface.co/PRATHAM4567/S1.3) |
 | S1.2 | Public | [PRATHAM4567/S1.2](https://huggingface.co/PRATHAM4567/S1.2) |
 | S1.1 | Public | [PRATHAM4567/S1.1](https://huggingface.co/PRATHAM4567/S1.1) |
 | S1 | Public | [PRATHAM4567/S1](https://huggingface.co/PRATHAM4567/S1) |
