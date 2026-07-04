@@ -80,7 +80,7 @@ def route(prompt):
 
 | Tier | Current Models |
 |---|---|
-| Fast | Gemini 2.1 Flash Lite |
+| Fast | Gemini 3.1 Flash Lite |
 | Deep | Claude Sonnet 4 · GPT-5 |
 | Ultra | Claude Opus · Fable 5 |
 
