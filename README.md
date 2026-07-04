@@ -119,7 +119,7 @@ User Query
 │  (tier classifier)       │
 └──────────────────────────┘
     │
-    ├── FAST  → Gemini 2.1 Flash Lite
+    ├── FAST  → Gemini 3.1 Flash Lite
     ├── DEEP  → Claude Sonnet 4 / GPT-5
     └── ULTRA → Claude Opus / Fable 5
 ```
